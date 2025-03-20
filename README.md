@@ -2,6 +2,12 @@
 
 A final project for CSC_52081_EP - Apprentissage Automatique Avancé et Agents Autonomes (2024-2025).
 
+Read our technical report [here](https://github.com/cw-wan/GRPO/blob/main/Report_GRPO.pdf).
+
+## Team Member
+
+Chenwei WAN, Yifei WANG, Hongxu CHEN
+
 ## Guide
 
 First adjust necessary configurations in `config.json`, like the ratio of training set to use.
